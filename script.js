@@ -64,7 +64,7 @@ class Bookshelf {
     if (this.books.length === 0) {
       const container = document.createElement('div');
       bookShelf.appendChild(container);
-      container.className = 'class0';
+      container.className = 'class1';
       const bookNameByAuthor = document.createElement('h4');
       bookNameByAuthor.innerHTML = 'No books in the List!!';
       container.appendChild(bookNameByAuthor);
