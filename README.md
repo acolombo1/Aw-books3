@@ -32,7 +32,7 @@ Open index.html file with your browser of choice.
 
 ### Deployment
 
-Copy index.html, style.css and actions.js to the http server.
+Copy index.html, style.css and script.js to the http server.
 
 ## Authors
 
