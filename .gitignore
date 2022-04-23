@@ -105,3 +105,6 @@ dist
 
 # Linters
 node_modules/
+.eslintrc.json
+.hintrc
+.stylelintrc.json
