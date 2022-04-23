@@ -24,7 +24,7 @@ Prepare a folder in your hard drive to copy the files to.
 
 Open Git Bash and execute the following commands:
 - cd [your_local_folder]
-- git clone https://github.com/marurevi/Awesome-books.git
+- git clone https://github.com/acolombo1/Awesome-books.git
 
 ### Usage
 
@@ -32,7 +32,7 @@ Open index.html file with your browser of choice.
 
 ### Deployment
 
-Not needed.
+Copy index.html, style.css and actions.js to the http server.
 
 ## Authors
 
